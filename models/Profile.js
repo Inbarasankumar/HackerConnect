@@ -32,7 +32,7 @@ const ProfileSchema = new mongoose.Schema({
     },
     experience: [
         {
-            tittle:{
+            title:{
                 type:String,
                 required:true
             },
@@ -99,6 +99,9 @@ const ProfileSchema = new mongoose.Schema({
             type:String
         },
         instagram:{
+            type:String
+        },
+        facebook:{
             type:String
         }
     },
