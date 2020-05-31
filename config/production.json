@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://HackerConnect:Hacker123@hackerconnector-7f8eq.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"mysecret",
+    "githubClient":"a32c54a4d99edfe1f3ba",
+    "githubSecret":"2f53dd24e370594255a13d149aa6cb3726b644f6"
+
+}
