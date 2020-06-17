@@ -1,5 +1,5 @@
 # HackerConnect
-Hacker Connect Backend using Nodejs and Mongo DB and front end using 
+Hacker Connect Frontend using Reactjs Backend using Nodejs and Mongo DB and front end using 
 
 
 #Description:
